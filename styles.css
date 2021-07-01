@@ -1,0 +1,47 @@
+strong {
+    color: red;
+}
+
+.text {
+    color:blue;
+}
+
+#text-pink {
+    color:pink;
+}
+
+div p {
+    color:grey;
+}
+
+.desc.title {
+    color:orange;
+}
+
+ul > li {
+    color:green;
+}
+
+div + p {
+    color:purple;
+}
+
+* {
+    font-style:normal;
+}
+
+p ~ span {
+    color:aquamarine;
+}
+
+a[target] {
+    color:gold;
+}
+
+label:hover {
+    color:lime;
+}
+
+[value="text-becomes-lime"] {
+    color:lime;
+}
